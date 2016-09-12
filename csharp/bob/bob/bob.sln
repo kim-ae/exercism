@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "bob", "bob\bob.shproj", "{A3588B8B-3B5F-4507-855B-5BAF85FF0158}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BobTest", "BobTest\BobTest.csproj", "{867DAC82-BA3C-43E4-A10F-9C4E985E5ACB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bobConsole", "bobConsole\bobConsole.csproj", "{B776BB58-F3BC-4E9C-8E6B-EB1963A30034}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{867DAC82-BA3C-43E4-A10F-9C4E985E5ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{867DAC82-BA3C-43E4-A10F-9C4E985E5ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{867DAC82-BA3C-43E4-A10F-9C4E985E5ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{867DAC82-BA3C-43E4-A10F-9C4E985E5ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B776BB58-F3BC-4E9C-8E6B-EB1963A30034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B776BB58-F3BC-4E9C-8E6B-EB1963A30034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B776BB58-F3BC-4E9C-8E6B-EB1963A30034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B776BB58-F3BC-4E9C-8E6B-EB1963A30034}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

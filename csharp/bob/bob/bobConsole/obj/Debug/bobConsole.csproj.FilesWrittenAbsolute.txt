@@ -1,0 +1,5 @@
+/home/escobar/exercism/csharp/bob/bob/bobConsole/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/escobar/exercism/csharp/bob/bob/bobConsole/bin/Debug/bobConsole.exe.mdb
+/home/escobar/exercism/csharp/bob/bob/bobConsole/bin/Debug/bobConsole.exe
+/home/escobar/exercism/csharp/bob/bob/bobConsole/obj/Debug/bobConsole.exe
+/home/escobar/exercism/csharp/bob/bob/bobConsole/obj/Debug/bobConsole.exe.mdb

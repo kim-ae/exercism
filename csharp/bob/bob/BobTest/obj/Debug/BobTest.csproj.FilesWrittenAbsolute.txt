@@ -1,0 +1,6 @@
+/home/escobar/exercism/csharp/bob/bob/BobTest/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/escobar/exercism/csharp/bob/bob/BobTest/bin/Debug/nunit.framework.dll
+/home/escobar/exercism/csharp/bob/bob/BobTest/bin/Debug/BobTest.dll.mdb
+/home/escobar/exercism/csharp/bob/bob/BobTest/bin/Debug/BobTest.dll
+/home/escobar/exercism/csharp/bob/bob/BobTest/obj/Debug/BobTest.dll
+/home/escobar/exercism/csharp/bob/bob/BobTest/obj/Debug/BobTest.dll.mdb
